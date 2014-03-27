@@ -1,0 +1,5 @@
+*Metal Slime
+metalslime 0.85 0.25 0.5 0.01
+
+(name)
+(sprite file name) (strength ratio) (agility ratio) (vitality ratio) (intellect ratio)

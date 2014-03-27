@@ -1,0 +1,5 @@
+Metal Slime
+metalslime 
+
+(name)
+(sprite file name) (ratio)

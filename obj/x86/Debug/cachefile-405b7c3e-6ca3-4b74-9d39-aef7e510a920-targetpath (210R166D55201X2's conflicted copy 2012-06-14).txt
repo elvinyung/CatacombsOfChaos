@@ -1,0 +1,14 @@
+Content\player_sprites\bmage.xnb
+Content\player_sprites\ff-battlesprites.xnb
+Content\player_sprites\fighter.xnb
+Content\tilemap\trpg_terrain.xnb
+Content\tilemap\tileset.xnb
+Content\player_sprites\soldier-1.xnb
+Content\interface\actionbar.xnb
+Content\interface\greypixel.xnb
+Content\interface\whitepixel.xnb
+Content\interface\cursor.xnb
+Content\interface\mouseTarget.xnb
+Content\interface\meter.xnb
+Content\monster_sprites\metalslime.xnb
+Content\mainFont.xnb

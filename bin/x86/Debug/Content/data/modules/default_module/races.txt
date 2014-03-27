@@ -1,0 +1,14 @@
+Human Human man 1 1 1 1
+The most versatile and adaptable of all the peoples in the realm, the humans can be adept at melee or magic, but a master of neither. The humans have many kingdoms in the West.
+
+Elf Elves elf -1 2 1 2
+An ancient people that once proliferated across the world, the dwindling race of the elves have now retreated deep into their forest, more reclusive than ever.
+
+Dwarf Dwarves dwarf 3 1 1 -1
+The dour, taciturn dwarves are known for their unmatched crafts. Their vast underground kingdoms delve all the way from the Northlands to the mountains near the Southern Sea.
+
+
+NOTE TO SELF:
+How to write a race
+(Race name) (Race plural) (sprite sheet file name) (strength bonus) (agility bonus) (vitality bonus) (intellect bonus)
+(Race description)
