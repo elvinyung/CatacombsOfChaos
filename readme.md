@@ -1,5 +1,13 @@
 # CATACOMBS OF CHAOS
-By **Elvin Yung**, 2012
+By **Elvin Yung**
 
 ## Introduction
-*Catacombs of Chaos*, or prjTileRPG-1, began as the final project for a grade 11 computer science course taken in 2012, which eventually evolved into a casual side project. Basically, it is a fully graphical [roguelike](http://en.wikipedia.org/wiki/Roguelike) dungeon crawler role-playing game, with procedural level generation and a rudimentary combat system. The bulk of the currently completed parts of the project represents work done within a two-week period in early 2012. Although the specifics of the original assignment only required the use of relatively simple concepts such as loops and arrays, I have utilized this project to experiment with various techniques, including cellular automation and pixel-perfect collision. Because of time constraints and relative inexperience at the time, the style of code in this project remains somewhat expedient, a fact that I hope to change in the future as I continue to make changes to the project. 
+*Catacombs of Chaos* is both of a) a fully graphical [roguelike](http://en.wikipedia.org/wiki/Roguelike) dungeon crawler role-playing game engine, and a) a game made with said roguelike engine. I built this with XNA 3.1 in C# back in 2011 or 2012, in a timespan of around two weeks. 
+
+### Stuff in this game
+The game is still very much incomplete, and I intend to resume development of this game once I have the time to dedicate towards it. For now, though, it has the following: 
+* dynamic tilemap engine
+* high-precision collision detection
+* custom 4-stat role-playing game system
+* fully procedural level and item generation
+* modular UI library for game menus and dialogs
